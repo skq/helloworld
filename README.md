@@ -8,3 +8,4 @@ featureTwo 3
 featureTwo 4
 feature3 1
 feature3 2
+feature4 1
