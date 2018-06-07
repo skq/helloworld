@@ -14,3 +14,4 @@ feature4 2
 feature5 2
 feature5 3
 feature6 1
+feature6 2
